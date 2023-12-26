@@ -7,10 +7,13 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        primary: '#fca404'
+        primary: '#fca404',
+        secondary: '#000000',
+        background: '#FFFFFF'
       },
       fontFamily:{
-        header:['Satoshi']
+        header:['Satoshi'],
+        logo:['Integral CF']
       }
     },
   },
